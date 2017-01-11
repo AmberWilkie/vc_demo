@@ -4,3 +4,4 @@ Will this create a conflict?
 Here's some more text.
 
 Hopefully this will create a conflict.
+Here's a line that shouldn't have a conflict.
