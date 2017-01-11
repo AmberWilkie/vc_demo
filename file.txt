@@ -1,3 +1,4 @@
 Here's some text for my text file.
+Will this create a conflict?
 
 Here's some more text.
