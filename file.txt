@@ -2,3 +2,5 @@ Here's some text for my text file.
 Will this create a conflict?
 
 Here's some more text.
+
+Hopefully this will create a conflict.
